@@ -1,0 +1,29 @@
+{
+  "name": "nspider",
+  "version": "0.0.1",
+  "description": "a spider writen by nodejs",
+  "main": "app.js",
+  "bin": {
+    "nspider": "bin/nspider"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+	"nodegrass": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renrenfed/nspider"
+  },
+  "keywords": [
+    "spider",
+    "crawler"
+  ],
+  "author": "Emil Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renrenfed/nspider/issues"
+  },
+  "homepage": "https://github.com/renrenfed/nspider"
+}
